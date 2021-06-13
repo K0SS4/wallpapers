@@ -15,6 +15,7 @@
     - snowy_mountains.jpg
     - snowy_mountains2.jpg
 - [arch_black.png](https://store.kde.org/p/1151013/)
+- [demon.jpg](https://www.wallpaperup.com/668229/dark_demon_fantasy_evil_art_artwork.html)
 - [fedora19-alpha-dawn.png](https://fedoraproject.org/wiki/Wallpapers#Dawn_.28used_for_non-animated_version.29_3)
 - [fedora24.png](https://fedoraproject.org/wiki/Wallpapers#Fedora_24)
 - [fedora34-day.jpg](https://fedoraproject.org/wiki/Wallpapers#Fedora_34)
