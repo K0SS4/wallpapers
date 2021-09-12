@@ -23,5 +23,7 @@
 - [fsociety.png](http://wallpaperswide.com/fsociety_mr_robot_hacking-wallpapers.html)
 - [neon_city.png](https://free4kwallpapers.com/neon-wallpapers)
 - [rain-crows.jpg](https://wallpapersafari.com/w/ZV9v31)
+- [stalker-train-station.jpg](https://www.artstation.com/artwork/8JBOm)\
+- [stalker-wasteland.jpg](https://www.wallpaperflare.com/s-t-a-l-k-e-r-2-chernobyl-gas-masks-ak-74-ak-74-abandoned-wallpaper-yturw)
 - Other images
     - [semicolon.jpeg](https://codeburst.io/why-i-prefer-to-use-semicolon-in-javascript-f00c303547) (I just cut it and scaled)
