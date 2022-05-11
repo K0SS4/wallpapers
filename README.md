@@ -15,6 +15,7 @@
     - snowy_mountains.jpg
     - snowy_mountains2.jpg
 - [arch_black.png](https://store.kde.org/p/1151013/)
+- [artix_black.jpg](https://www.reddit.com/r/artixlinux/comments/mo7j1h/ive_created_an_artix_wallpaper/)
 - [crow_moon.jpg](https://wallpaperaccess.com/dark-crow)
 - [demon.jpg](https://www.wallpaperup.com/668229/dark_demon_fantasy_evil_art_artwork.html)
 - [fedora19-alpha-dawn.png](https://fedoraproject.org/wiki/Wallpapers#Dawn_.28used_for_non-animated_version.29_3)
