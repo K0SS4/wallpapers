@@ -23,6 +23,7 @@
 - [fedora34-day.jpg](https://fedoraproject.org/wiki/Wallpapers#Fedora_34)
 - [fedora34-night.jpg](https://fedoraproject.org/wiki/Wallpapers#Fedora_34)
 - [fsociety.png](http://wallpaperswide.com/fsociety_mr_robot_hacking-wallpapers.html)
+- [gnu_black.jpg](https://wallhere.com/en/wallpaper/70680)
 - [neon_city.png](https://free4kwallpapers.com/neon-wallpapers)
 - [rain-crows.jpg](https://wallpapersafari.com/w/ZV9v31)
 - [single_crow.jpg](https://wallpaperaccess.com/dark-crow)
